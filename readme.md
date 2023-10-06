@@ -1,6 +1,6 @@
 # Checkin
 
-GitHub Actions 实现 [GLaDOS][glados] 自动签到
+GitHub Actions 实现 [GLaDOS][glados] 自动签到！
 
 ([GLaDOS][glados] 可用邀请码: `AB9HS-L4NXC-T4H6B-DIIET`, 双方都有奖励天数)
 
